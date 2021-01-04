@@ -1,4 +1,4 @@
-package com.leetCode.algorithms;
+package com.leetCode.algorithms.easy;
 
 /**
  *Determine whether an integer is a palindrome.
