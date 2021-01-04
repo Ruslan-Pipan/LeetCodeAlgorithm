@@ -1,4 +1,4 @@
-package com.leetCode.algorithms;
+package com.leetCode.algorithms.easy;
 /**
  * Given a 32-bit signed integer, reverse digits of an integer.
  *
@@ -14,23 +14,20 @@ package com.leetCode.algorithms;
  * **/
 public class ReverseInteger {
 
-    public static int reversResolvedByString(int x){
-        StringBuilder revers = new StringBuilder(Integer.toString(x)).reverse();
-        return Integer.parseInt(revers.toString());
-    }
-
     public static int reversResolvedByDivision(int x){
-        int result = 0;
+        long result = 0;
         while (x != 0){
           int pop = x % 10;
           x/=10;
-          System.out.println(result = result * 10 + pop);
+          result = result * 10 + pop;
         }
-        return 0;
+        if (result < Integer.MIN_VALUE || result > Integer.MAX_VALUE) return 0;
+        return (int) result;
     }
 
     public static void main(String[] args) {
-        reversResolvedByDivision(123);
+        System.out.println(reversResolvedByDivision(
+                123));
     }
 
 }
