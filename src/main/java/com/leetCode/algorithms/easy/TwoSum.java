@@ -1,4 +1,4 @@
-package com.leetCode.algorithms;
+package com.leetCode.algorithms.easy;
 
 import java.lang.reflect.Array;
 import java.util.*;
