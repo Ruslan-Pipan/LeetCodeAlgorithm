@@ -26,7 +26,7 @@ import java.util.Map;
 
 public class TwoSum {
 
-    public static int[] twoSumResolvedWithLoops(int[] nums, int target){
+    public static int[] twoSumResolvedByLoops(int[] nums, int target){
         for (int i = 0; i < nums.length - 1; i++){
             for (int j = i + 1; j < nums.length; j++){
                 if (nums[i] + nums[j] == target){
@@ -37,7 +37,7 @@ public class TwoSum {
         throw new IllegalArgumentException("No found.");
     }
 
-    public static int[] twoSumResolvedWithMap(int[] nums, int target){
+    public static int[] twoSumResolvedByMap(int[] nums, int target){
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             map.put(nums[i], i);
@@ -54,7 +54,7 @@ public class TwoSum {
     public static void main(String[] args) {
         int[]nums = {3,2,4};
         int target = 6;
-        int[] result =  twoSumResolvedWithMap(nums,target);
+        int[] result = twoSumResolvedByMap(nums,target);
 
         for(int i=0; i < result.length; i++){
             System.out.println(result[i]);
