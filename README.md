@@ -1,2 +1,3 @@
 # LeetCodeAlgorithms
-Here answers on algorithms from Leetcode.
+Here answers on algorithms from Leetcode.😊
+Easy: 
