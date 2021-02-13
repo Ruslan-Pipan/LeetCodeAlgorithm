@@ -8,7 +8,7 @@ package com.leetCode.algorithms.medium.credit;
  * @version 1.0
  * */
 public class MasterCard  implements CheckValid{
-    private static final LushnessAlgorithm algorithm = new LushnessAlgorithm();
+    private final LushnessAlgorithm algorithm = new LushnessAlgorithm();
     @Override
     public boolean check(long credit) {
         long copyCredit = credit;
