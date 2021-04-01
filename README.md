@@ -1,7 +1,8 @@
 # LeetCodeAlgorithms
 The algorithm task itself is described in classes. [Test case](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/test/java/medium/credit)
 Here answers on algorithms.
-## [Algorithm] 
+## [Data Structure:]()
+## [Algorithm:]() 
 ## [Easy:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/easy)
   - [#1 Two sum](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/easy/TwoSum.java)
   - [#7 Reverse integer](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/easy/ReverseInteger.java)
