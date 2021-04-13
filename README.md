@@ -1,4 +1,4 @@
-# LeetCodeAlgorithms
+# LeetCodeAlgorithms and Data Structure.
 The algorithm task itself is described in classes. [Test case](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/test/java/medium/credit)
 Here answers on algorithms.
 ## [Data Structure:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/book/dataStructure)
