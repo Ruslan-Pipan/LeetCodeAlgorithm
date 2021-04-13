@@ -26,5 +26,7 @@ Here answers on algorithms.
   - [#11 Roman to integer](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/easy/RomanToInteger.java)
 ## [Medium:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/test/java/medium)
   - [Add two Numbers](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/medium/addTwoNumbers)
+  - [LongestSubsrtingWithoutReatingCharters](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/medium/LongestSubstringWithoutRepeatingCharters.java)
 ## [Hard:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/hard)
   - [LushnessAlgorithm](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/hard/credit)
+  - [MedianToSortedArray](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/hard/MedianToSortedArray.java)
