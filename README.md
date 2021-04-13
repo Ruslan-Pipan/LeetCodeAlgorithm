@@ -25,6 +25,6 @@ Here answers on algorithms.
   - [#9 Palindrome number](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/easy/PalindromeNumber.java)
   - [#11 Roman to integer](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/easy/RomanToInteger.java)
 ## [Medium:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/test/java/medium)
-  - [LushnessAlgorithm](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/medium/credit/LushnessAlgorithm.java) and credit [task](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/medium/credit) check for findelity [Master card](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/medium/credit/MasterCard.java), [Visa](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/medium/credit/Visa.java), and [American Express](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/medium/credit/AmericanExpress.java). Test [case](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/test/java/medium/credit/CreditTest.java)
   - [Add two Numbers](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/medium/addTwoNumbers)
-## [Hard:]()
+## [Hard:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/hard)
+  - [LushnessAlgorithm](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/hard/credit)
