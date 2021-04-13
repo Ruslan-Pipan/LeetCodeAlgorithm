@@ -1,4 +1,4 @@
-package com.leetCode.algorithms.medium.credit;
+package com.leetCode.algorithms.hard.credit;
 
 
 public interface CheckValid {

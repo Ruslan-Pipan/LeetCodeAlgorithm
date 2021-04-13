@@ -1,4 +1,4 @@
-package com.leetCode.algorithms.medium.credit;
+package com.leetCode.algorithms.hard.credit;
 /**
  * So what’s the secret formula? Well, most cards use an algorithm invented by Hans Peter
  * Luhn of IBM. According to Luhn’s algorithm, you can determine if a credit card number is (syntactically) valid as follows:

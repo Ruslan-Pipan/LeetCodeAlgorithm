@@ -1,4 +1,4 @@
-package com.leetCode.algorithms.medium.credit;
+package com.leetCode.algorithms.hard.credit;
 /**
  * All Visa numbers start with 4, and Visa uses 13- and 16-digit numbers.
  *

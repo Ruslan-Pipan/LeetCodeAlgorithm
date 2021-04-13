@@ -1,4 +1,4 @@
-package com.leetCode.algorithms.medium.credit;
+package com.leetCode.algorithms.hard.credit;
 
 /**
  * All American Express numbers start with 34 or 37;

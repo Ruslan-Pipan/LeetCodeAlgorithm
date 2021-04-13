@@ -1,4 +1,4 @@
-package com.leetCode.algorithms.medium.credit;
+package com.leetCode.algorithms.hard.credit;
 
 /**
  * Most MasterCard numbers start with 51, 52, 53, 54, or 55;
