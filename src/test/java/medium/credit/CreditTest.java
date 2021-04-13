@@ -1,9 +1,9 @@
 package medium.credit;
 
-import com.leetCode.algorithms.medium.credit.AmericanExpress;
-import com.leetCode.algorithms.medium.credit.CheckValid;
-import com.leetCode.algorithms.medium.credit.MasterCard;
-import com.leetCode.algorithms.medium.credit.Visa;
+import com.leetCode.algorithms.hard.credit.AmericanExpress;
+import com.leetCode.algorithms.hard.credit.CheckValid;
+import com.leetCode.algorithms.hard.credit.MasterCard;
+import com.leetCode.algorithms.hard.credit.Visa;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
