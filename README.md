@@ -2,7 +2,7 @@
 The algorithm task itself is described in classes. [Test case](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/test/java/medium/credit)
 Here answers on algorithms.
 ## [Data Structure:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/book/dataStructure)
-  -[#1 ArrayList](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/book/dataStructure/ArrayList.java)
+  - [#1 ArrayList](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/book/dataStructure/ArrayList.java)
   -[#1 Queue](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/book/dataStructure/Queue.java)
   -[#1 ProrityQueue](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/book/dataStructure/PriorityQueue.java)
   -[#1 QueueBuffer](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/book/dataStructure/QueueBuffer.java)
