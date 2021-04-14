@@ -1,4 +1,4 @@
-# LeetCodeAlgorithms
+# Leet Code Algorithms and Data Structure.
 The algorithm task itself is described in classes. [Test case](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/test/java/medium/credit)
 Here answers on algorithms.
 ## [Data Structure:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/book/dataStructure)
@@ -25,6 +25,8 @@ Here answers on algorithms.
   - [#9 Palindrome number](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/easy/PalindromeNumber.java)
   - [#11 Roman to integer](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/easy/RomanToInteger.java)
 ## [Medium:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/test/java/medium)
-  - [Add two Numbers](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/medium/addTwoNumbers)
+  - [#2 Add two Numbers](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/medium/addTwoNumbers)
+  - [#3 LongestSubsrtingWithoutReatingCharters](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/medium/LongestSubstringWithoutRepeatingCharters.java)
 ## [Hard:](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/hard)
   - [LushnessAlgorithm](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/tree/master/src/main/java/com/leetCode/algorithms/hard/credit)
+  - [#4 MedianToSortedArray](https://github.com/Ruslan-Pipan/LeetCodeAlgorithms/blob/master/src/main/java/com/leetCode/algorithms/hard/MedianToSortedArray.java)
